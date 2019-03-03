@@ -12,9 +12,9 @@ int main(){
     for(int i=0; i<size; i++){
         for(int j=0; j<set_size; j++){
             if(i & (1 << j)){
-                printf("%c",data[j]);
+                cout << data[j];
             }
         }
-        printf("\n");
+        cout << endl;
     }
 }
