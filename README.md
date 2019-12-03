@@ -1,2 +1,2 @@
-# Blockchain Consensus Algorithm
-This project is an implementation of blockchain with two different consensus algorithms POA and POW. There are two kinds of users in the network clients(public) and servers(miners). The client can only send transaction and request to view the blockchain. the transaction should be of the form "tx|[a-z]{4}[0-9]{4}| ". To request for blockchain "pb" command should be entered on the client-side.
+# Code Snippets
+Handy Codes
